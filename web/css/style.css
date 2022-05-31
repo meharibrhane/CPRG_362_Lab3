@@ -1,0 +1,22 @@
+
+/* 
+    Created on : May 31, 2022, 4:26:28 PM
+    Author     : mehar
+*/
+
+* {
+    margin: 5px;
+    padding: 5px;
+    font-family: 'Lato', sans-serif;
+}
+body{
+    background-color: #ccffcc;
+       color: black;
+       
+}
+
+label{
+    display: block;
+    
+    
+}
