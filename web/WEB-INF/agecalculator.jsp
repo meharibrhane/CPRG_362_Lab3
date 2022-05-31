@@ -13,7 +13,7 @@
     </head>
     <body>
         <h1>Age Calculator</h1>
-        <form method="POST" action="age"> 
+        <form method="POST" action="arithmeticcalculator.jsp"> 
             <label>Enter your age</label>
             <input type="number" name = "age" value="number">
             <br>
